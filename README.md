@@ -14,5 +14,5 @@ Input:
 
 Output:
 
-<li>RDWCV=[26.2],RDWSD=[22.2]</li>                                                                                                                                                  
+<li>RDWCV=26.2,RDWSD=22.2</li>                                                                                                                                                  
                               
