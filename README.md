@@ -6,11 +6,11 @@ Exemplo de funcionamento:
 
 Input:
 
-2221
-1231
-2351
-5321
-2621
+<li>2221</li>
+<li>1231</li> 
+<li>2351</li>
+<li>5321</li>
+<li>2621</li> 
 
 Output:
 
