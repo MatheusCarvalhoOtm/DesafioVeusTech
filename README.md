@@ -5,16 +5,14 @@ O código foi realizado integralmente em C, pois apesar de fazer em C++ facilita
 Exemplo de funcionamento:
 
 Input:
+
 2221
-
 1231
-
 2351
-
 5321
-
 2621
 
 Output:
+
 RDWCV=[26.2],RDWSD=[22.2]                                                                                                                                                  
                               
