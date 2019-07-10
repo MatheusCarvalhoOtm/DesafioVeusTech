@@ -6,9 +6,13 @@ Exemplo de funcionamento:
 
 Input:
 2221
+
 1231
+
 2351
+
 5321
+
 2621
 
 Output:
