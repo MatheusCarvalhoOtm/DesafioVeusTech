@@ -1,6 +1,6 @@
 # DesafioVeusTech
 
-O código foi realizado integralmente em C, faze-lo em C++ facilitaria bastante o processo, no entanto como a vaga era de Desenvolvedor C eu busquei utilizar somente o paradigma imperativo. 
+O código foi realizado integralmente em C, pois apesar de fazer em C++ facilitaria bastante o processo, como a vaga era de Desenvolvedor C (e exige conhecimento de embarcados de baixo nível) eu busquei utilizar somente o paradigma imperativo. 
 
 Exemplo de funcionamento:
 
